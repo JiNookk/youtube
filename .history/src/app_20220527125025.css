@@ -1,0 +1,9 @@
+.searchbar {
+  display: flex;
+  padding: 1rem;
+  background-color: black;
+}
+
+.searchbar-logo {
+  color: red;
+}

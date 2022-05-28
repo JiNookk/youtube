@@ -1,0 +1,40 @@
+li {
+  list-style-type: none;
+}
+
+.container {
+  margin: 0 10rem;
+}
+
+/* Search-bar */
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: black;
+}
+
+.searchbar-logo {
+  color: red;
+  background-color: white;
+}
+
+.searchbar-textlogo {
+  color: white;
+}
+
+/* PopularList */
+
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+.popvideo {
+  width: 50%;
+  background-color: antiquewhite;
+}

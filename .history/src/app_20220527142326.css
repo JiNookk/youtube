@@ -1,0 +1,27 @@
+.container {
+  margin: 0 10rem;
+}
+
+/* Search-bar */
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: black;
+}
+
+.searchbar-logo {
+  color: red;
+  background-color: white;
+}
+
+.searchbar-textlogo {
+  color: white;
+}
+
+/* PopularList */
+
+.popvideo-container {
+  background-color: antiquewhite;
+}

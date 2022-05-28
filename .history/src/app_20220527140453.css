@@ -1,0 +1,19 @@
+.container {
+  margin: 0 10rem;
+}
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: black;
+}
+
+.searchbar-logo {
+  color: red;
+  background-color: white;
+}
+
+.searchbar-textlogo {
+  color: white;
+}
