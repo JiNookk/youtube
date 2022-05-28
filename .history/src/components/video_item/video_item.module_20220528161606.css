@@ -1,0 +1,22 @@
+.video_item {
+  display: flex;
+  width: 49.5%;
+  padding: 2rem 0.5rem;
+  margin-bottom: 0.3rem;
+  border: 1px solid black;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.description {
+  margin: 0 1rem;
+}
+
+.title {
+  font-size: 1rem;
+}
+
+.channelTitle {
+  font-size: 0.8rem;
+  color: gray;
+}

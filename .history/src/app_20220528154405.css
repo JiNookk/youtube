@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-ul {
-  padding: 0;
-}
-
 li {
   list-style-type: none;
 }

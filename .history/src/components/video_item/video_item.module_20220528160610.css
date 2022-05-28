@@ -1,0 +1,6 @@
+.video_item {
+  display: flex;
+  width: 50%;
+  padding: 2rem 0.5rem;
+  border: solid black;
+}
